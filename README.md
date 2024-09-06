@@ -15,6 +15,6 @@
 -   **Token Name**: IPMB Token
 -   **Token Symbol**: IPMB
 -   **Decimal Places**: 18
--   **Initial Supply**: Defined during deployment
+-   **Initial Supply**: 200 Million, which corresponds to 200,000 kilograms or 200 tons of 22-carat gold doré bars.
 -   **Blockchain**: Polygon
 -   **Deployment Address**: [0xFF22c94FFb6bB5d1DF18bEb5fd1dFE7583D3B214](https://polygonscan.com/token/0xFF22c94FFb6bB5d1DF18bEb5fd1dFE7583D3B214)
